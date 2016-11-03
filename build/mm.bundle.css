@@ -2253,7 +2253,7 @@ html, body, div, span, applet, object, iframe, h1, h2, .item .item-heading, h3, 
   border: 0;
   vertical-align: baseline;
   font: inherit;
-  font-size: 100%; 
+  font-size: 98%; 
   font-family: Verdana;}
 ol, ul {
   list-style: none; }
@@ -4915,14 +4915,14 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   padding: 16px;
   border-width: 1px;
   border-style: solid;
-  font-size: 16px; }
+  font-size: 14px; }
   .item h2, .item .item-heading {
     margin: 0 0 2px 0;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: normal; }
   .item h3 {
     margin: 0 0 4px 0;
-    font-size: 14px; }
+    font-size: 13px; }
   .item h4 {
     margin: 0 0 4px 0;
     font-size: 12px; }
@@ -4931,7 +4931,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
     font-size: 10px; }
   .item p {
     color: #943b21;
-    font-size: 14px;
+    font-size: 13px;
     margin-bottom: 2px; }
   .item h1:last-child, .item h2:last-child, .item .item-heading:last-child, .item h3:last-child, .item h4:last-child, .item h5:last-child, .item h6:last-child, .item p:last-child {
     margin-bottom: 0; }
